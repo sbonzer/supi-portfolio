@@ -471,7 +471,7 @@ input, textarea {
 	}
 }
 
-@-webkit-keyframes color-change {
+/*@-webkit-keyframes color-change {
   0% {
     fill: #edc655;
   }
@@ -504,7 +504,7 @@ input, textarea {
 
   100% {
     fill: #8400E8;
-  }
+  }*/
 }
 
 .sun {
