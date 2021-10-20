@@ -433,9 +433,9 @@ input, textarea {
   }
 
   .profile__portrait {
-	  width: 180px;
-	  height: 200px;
-	  border-radius: 10% 20%;
+	  width: 150px;
+	  height: 150px;
+	  border-radius: 50%;
 	  margin-right: 10px;
 	  -webkit-box-sizing: border-box;
 	          box-sizing: border-box;
